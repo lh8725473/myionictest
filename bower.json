@@ -1,0 +1,21 @@
+{
+  "name": "ionic",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lh8725473/myionictest",
+  "authors": [
+    "lh8725473 <171213574@qq.com>"
+  ],
+  "description": "ionic test",
+  "keywords": [
+    "ionic",
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
